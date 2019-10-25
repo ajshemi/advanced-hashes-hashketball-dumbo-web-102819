@@ -167,7 +167,6 @@ end
 #end
 
 
->>>>>>> b5a9361fee14748f2448797347951da4ec12acfc
 def sum_scores(team_name)
   game_data=game_hash()
   result=[]
